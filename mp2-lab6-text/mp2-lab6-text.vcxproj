@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Control.h" />
     <ClInclude Include="TStack.h" />
     <ClInclude Include="TText.h" />
   </ItemGroup>
